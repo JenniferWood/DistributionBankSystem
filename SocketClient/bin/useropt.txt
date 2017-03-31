@@ -1,0 +1,14 @@
+Xu d 6788
+Ma d 345
+He d 4500
+Mi d 2600
+Wang d 34
+Lee d 3867
+Liang d 2048
+Liu d 3746
+Lin d 293
+Ding d 343
+Jean d 4930
+Cui d 3845
+Shan d 4586
+Zhang d 3845
